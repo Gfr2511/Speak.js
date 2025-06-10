@@ -1,4 +1,4 @@
-@import url(variables-m.css);
+@import url(variables.css);
 @import url(reset.css);
 
 body {
@@ -111,6 +111,7 @@ nav a:hover {
 
 .grid-container main .card-main img {
     width: 107%;
+    height: 100%;
     border-radius: 10px;
 }
 
